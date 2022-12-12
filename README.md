@@ -13,3 +13,19 @@
 ### Computer Architecture
 
 ### Assembler Development
+
+## Software
+
+### Virtual Machine Processing
+
+### Virtual Machine Control
+
+### High-Level Languages
+
+### Compiler Syntax Analysis
+
+### Compiler Code Generation
+
+### Operating Systems
+
+
